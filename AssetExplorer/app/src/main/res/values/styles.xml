@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AssetDetail.Text" parent="TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
+        <!--<item name="android:textColor">@android:color/white</item>-->
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

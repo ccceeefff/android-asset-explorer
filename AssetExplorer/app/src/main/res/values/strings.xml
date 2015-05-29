@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AssetExplorer</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_asset_list">AssetListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

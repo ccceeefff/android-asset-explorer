@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="overlay_bg">#30000000</color>
+
+    <color name="dark_bg">#101010</color>
+    <color name="light_bg">#FCFCFC</color>
+
+</resources>
